@@ -1,5 +1,5 @@
-
-┌─[ yuuyake@my-thinkpad-is-being-abused-beyond-limits ]
-└─$ whoami
+```text
+yuuyake@thinkpad
+$ whoami
 bash: whoami: command not found
-
+```
